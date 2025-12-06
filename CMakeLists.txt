@@ -1,4 +1,4 @@
-﻿cmake_minimum_required(VERSION 3.15)  # 提高版本要求以支持新特性
+﻿cmake_minimum_required(VERSION 3.15)
 
 project(Compressor)
 
