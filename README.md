@@ -52,6 +52,7 @@ Full time: 10ms
 
 ## 代码结构
 ```
+HuffmanCompressor/
 ├── include/           # 头文件目录
 │   ├── bitReader.hpp  # 位读取工具类，用于从文件中读取位流
 │   ├── bitWriter.hpp  # 位写入工具类，用于向文件中写入位流
